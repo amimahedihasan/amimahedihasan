@@ -24,7 +24,7 @@
 ##  About Me
 ```javascript
 const mdMahediHasan = {
-  pronouns: "he" | "him",ontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png" width="100%"/>
+  pronouns: "he" | "him"
   location: "Mymensingh, Bangladesh 🇧🇩",
   currentFocus: "Building modern, scalable front-end web applications",
   stack: {

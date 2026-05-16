@@ -140,11 +140,16 @@ const mdMahediHasan = {
 
 ### 🏅 Stats Highlights
 
-<img src="https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github" title="My longest contribution streak - 20 consecutive days of commits!" />
-<img src="https://img.shields.io/badge/Public%20Repos-58-green?style=for-the-badge&logo=github" title="Number of public repositories I've created" />
-<img src="https://img.shields.io/badge/Years%20on%20GitHub-2+-purple?style=for-the-badge&logo=github" title="Active on GitHub for over 2 years" />
+<img src="https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github" title="My longest contribution streak - 50 consecutive days of commits!" />
+<img src="https://img.shields.io/github/repo-size/amimahedihasan/amimahedihasan" /><img src="https://img.shields.io/badge/Years%20on%20GitHub-2+-purple?style=for-the-badge&logo=github" title="Active on GitHub for over 2 years" />
 
 </div>
+
+
+
+
+
+
 
 ---
 

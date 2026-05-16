@@ -92,20 +92,38 @@ const mdMahediHasan = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amimahedihasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amimahedihasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170em" alt="Top Languages"/>
+###
+
+<div align="center" >
+  <a href="https://github.com/amimahedihasan">
+    <img src="https://streak-stats.demolab.com/?user=amimahedihasan&theme=radical&border_radius=10&cache_seconds=86400" alt="amimahedihasan's GitHub Streak" width="49%" />
+ </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amimahedihasan&theme=tokyonight&hide_border=true" height="170em" alt="GitHub Streak"/>
-</div>
+###
+
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amimahedihasan&theme=tokyonight" width="100%" alt="Profile Summary"/>
+  <a href="https://github.com/amimahedihasan">
+    <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amimahedihasan&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+
+  <a href="https://github.com/amimahedihasan">
+    <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amimahedihasan&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="amimahedihasan's GitHub Stats" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amimahedihasan&theme=radical" width="100%" alt="Profile Summary"/>
 </div>
 
 ---
+
+###
+
+<br clear="both">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🏆 GitHub Achievements
 
@@ -164,7 +182,9 @@ const mdMahediHasan = {
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🎯 Current Focus
 

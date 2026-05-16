@@ -46,9 +46,6 @@ const mdMahediHasan = {
 };
 ```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amimahedihasan&#x26;theme=tokyo-night&#x26;hide_border=true&#x26;area=true" width="100%" alt="GitHub Activity Graph">
-</p>
 
 
 ##  Tech Stack
@@ -131,6 +128,16 @@ const mdMahediHasan = {
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=amimahedihasan&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahedi Hasan's GitHub Trophies" />
+</p>
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ### 🏅 Stats Highlights
 
 <img src="https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github" title="My longest contribution streak - 20 consecutive days of commits!" />
@@ -147,6 +154,11 @@ const mdMahediHasan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amimahedihasan&#x26;bg_color=1a1b27&#x26;color=38bdae&#x26;line=70a5fd&#x26;point=bf91f3&#x26;area=true&#x26;hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
+<div align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+</div>
 
 
 ## 🎯 Current Focus

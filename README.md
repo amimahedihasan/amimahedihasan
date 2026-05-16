@@ -1,7 +1,7 @@
 <!-- Modern Developer GitHub Profile README --><!-- Modern Developer GitHub Profile README -->
 
 <p align="center">
-  <img src=https://i.ibb.co.com/TDV6DZrf/github-header-banner-2.png width="100%"/>
+<img src="https://raw.githubusercontent.com/amimahedihasan/amimahedihasan/main/banner.jpeg" width="100%" />
 </p>
 
 <h1 align="center">

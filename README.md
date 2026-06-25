@@ -1,7 +1,8 @@
 <!-- Modern Developer GitHub Profile README --><!-- Modern Developer GitHub Profile README -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amimahedihasan/amimahedihasan/main/banner.jpeg" width="100%" />
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=220&section=header&text=Md.%20Mahedi%20Hasan&fontColor=c0caf5&fontSize=48&fontAlignY=38&desc=Front-End%20%20Developer%20%E2%80%A2%20Project%20Manager&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <h1 align="center">
